@@ -1,5 +1,5 @@
 ﻿
-![JVlogo.png](JVlogo2.png)
+![JVlogo.png](img/logotype.png)
 
 #JaVers web site, hosted on javers.github.io
 
@@ -9,4 +9,4 @@ see https://help.github.com/articles/using-jekyll-with-pages
 #Running Jekyll
 Run Jekyll on your box
 
-    jekyll serve    
+    jekyll serve
